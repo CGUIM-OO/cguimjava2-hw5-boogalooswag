@@ -9,5 +9,8 @@ public class HW5 {
 		tbl.set_dealer(new Dealer());
 		
 		tbl.play();
+		
+		
+		
 	}
 }
