@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Player {
+public class Player extends Person {
 	private String name;
 
 	private int chips;
